@@ -1,6 +1,19 @@
-# hadith_app
+📖 Hadith App
+🌟 Overview
+The Hadith App is a Flutter-based mobile application that provides access to six authentic Hadith books. Users can browse Hadith collections and search for specific Hadith by their number.
 
-A new Flutter project.
+📚 Included Hadith Books
+✅ Sahih Bukhari
+✅ Sahih Muslim
+✅ Jami al-Tirmidhi
+✅ Sunan Abu Dawood
+✅ Sunan Ibn Majah
+✅ Sunan an-Nasai
+
+🔍 Features
+Search Functionality: Find any Hadith by entering its number.
+User-Friendly Interface: Smooth navigation for easy access to Hadith collections.
+Fast & Lightweight: Optimized for quick access and efficient performance.
 
 ## Getting Started
 
